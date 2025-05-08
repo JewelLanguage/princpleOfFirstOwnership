@@ -1,0 +1,10 @@
+name = "princpleOfFirstOwnership"
+version = "0.1.0"
+defaultTargets = ["princpleoffirstownership"]
+
+[[lean_lib]]
+name = "PrincpleOfFirstOwnership"
+
+[[lean_exe]]
+name = "princpleoffirstownership"
+root = "Main"
